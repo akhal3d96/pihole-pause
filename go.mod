@@ -1,4 +1,4 @@
-module github.com/akhal3d96/pause-pihole
+module github.com/akhal3d96/pipause
 
 go 1.24.6
 

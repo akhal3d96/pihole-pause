@@ -1,4 +1,4 @@
-BINARY := pause-pihole
+BINARY := pipause
 PREFIX ?= /usr/local
 BINDIR := $(PREFIX)/bin
 

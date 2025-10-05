@@ -15,7 +15,7 @@ Enter pi-hole password:
 
 
 # Specify duration
-pause-pihole 2m
+pipause 2m
 Enter pi-hole password: 
 2025/10/05 19:05:15 INFO done response="{\"blocking\":\"disabled\",\"timer\":120,\"took\":5.1736831665039062e-05}"
 2025/10/05 19:05:15 INFO done
